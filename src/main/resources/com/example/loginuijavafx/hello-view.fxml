@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="464.0" prefWidth="486.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.loginuijavafx.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+
+    <Label fx:id="welcomeText" />
+    <AnchorPane prefHeight="218.0" prefWidth="351.0">
+
+            <Button layoutX="242.0" layoutY="135.0" mnemonicParsing="false" text="Login " />
+            <PasswordField layoutX="141.0" layoutY="100.0" />
+            <Accordion layoutX="40.0" layoutY="88.0" />
+            <Button layoutX="142.0" layoutY="135.0" onAction="#onHelloButtonClick" text="Sign Up" textFill="#612222" />
+            <Label layoutX="46.0" layoutY="104.0" prefHeight="17.0" prefWidth="83.0" text="Password" />
+            <Label layoutX="47.0" layoutY="71.0" text="Username" />
+            <TextField layoutX="140.0" layoutY="67.0" />
+
+    </AnchorPane>
+    <opaqueInsets>
+        <Insets />
+    </opaqueInsets>
+    <effect>
+        <ColorAdjust brightness="-0.21" contrast="0.05" hue="-1.0" saturation="-0.92" />
+    </effect>
+</VBox>
