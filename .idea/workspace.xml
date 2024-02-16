@@ -4,11 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6532f59a-ebad-4a14-8bd4-154c91e03e1c" name="Changes" comment="" />
+    <list default="true" id="6532f59a-ebad-4a14-8bd4-154c91e03e1c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/loginuijavafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/loginuijavafx/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/src/main/java/com/example/sd2week2/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/src/main/java/com/example/sd2week2/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/src/main/resources/com/example/sd2week2/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sd2week2/test" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -17,6 +39,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2cRLPQ5GRzbz2zH8EM35kl3SAbS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -25,12 +51,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/javafx/login-ui-javafx",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="login-ui-javafx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="login-ui-javafx" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
